@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff92cdbd-bb9d-46b8-9c76-40d5bd17d0b7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/SaiStudy - DataFrames-csv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SaiStudy - Hack2020_prod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SaiStudy - SQLEngine-csv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SaiStudy - Spark - DataFrames.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SaiStudy - Spark_STream_Count.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SaiStudy - Spark_Window.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saistudy - split-csv.py" afterDir="false" />
+    <list default="true" id="ff92cdbd-bb9d-46b8-9c76-40d5bd17d0b7" name="Default" comment="New STreaming Stuff from Spark and Spark 3.0 modulations">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SaiStudy - Spark-Twitter-count.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saistudy-Socket-Twitter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saistudy-Spark-Twitter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SaiStudy - AWS_ML_Code.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SaiStudy - KAFKA-STREAMING.py" beforeDir="false" afterPath="$PROJECT_DIR$/SaiStudy - KAFKA-STREAMING.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +28,12 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="rekharamesh &lt;meetreks@gmail.com&gt;" />
+        <option value="Ram the MaddyNew" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1epPN1j9CCwMyQDLCQem3iSc580" />
@@ -42,6 +44,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -50,9 +53,6 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\SaiStudy - LEarn It All - Version9" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\SaiStudy - LEarn It All - Version9\python_package_binominal\distributions" />
       <recent name="C:\SaiStudy - LEarn It All - Version9\python_package_example" />
@@ -60,8 +60,11 @@
       <recent name="C:\SaiStudy - LEarn It All - Version9\Sai_AWS_ML\subdir" />
       <recent name="C:\SaiStudy - LEarn It All - Version9\app\templates" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\SaiStudy - LEarn It All - Version9" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.Saistudy - split-csv">
+  <component name="RunManager" selected="Python.Saistudy-Socket-Twitter">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -96,27 +99,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SaiStudy - DataFrames-csv" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SaiStudy - LEarn It All - Version9" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SaiStudy - DataFrames-csv.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="SaiStudy - SQLEngine-csv" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SaiStudy - LEarn It All - Version9" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -138,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SaiStudy - Spark - DataFrames" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="SaiStudy - Spark-Twitter-count" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SaiStudy - LEarn It All - Version9" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,28 +132,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SaiStudy - Spark - DataFrames.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="SaiStudy - Spark_STream_Count" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SaiStudy - LEarn It All - Version9" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SaiStudy - Spark_STream_Count.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SaiStudy - Spark-Twitter-count.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -201,6 +162,48 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Saistudy-Socket-Twitter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SaiStudy - LEarn It All - Version9" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Saistudy-Socket-Twitter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Saistudy-Spark-Twitter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SaiStudy - LEarn It All - Version9" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Saistudy-Spark-Twitter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -212,11 +215,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Saistudy-Socket-Twitter" />
+        <item itemvalue="Python.Saistudy-Spark-Twitter" />
+        <item itemvalue="Python.SaiStudy - Spark-Twitter-count" />
         <item itemvalue="Python.Saistudy - split-csv" />
         <item itemvalue="Python.SaiStudy - SQLEngine-csv" />
-        <item itemvalue="Python.SaiStudy - DataFrames-csv" />
-        <item itemvalue="Python.SaiStudy - Spark_STream_Count" />
-        <item itemvalue="Python.SaiStudy - Spark - DataFrames" />
       </list>
     </recent_temporary>
   </component>
@@ -253,7 +256,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596385926975</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="New STreaming Stuff from Spark and Spark 3.0 modulations">
+      <created>1597489718625</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1597489718625</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView">
@@ -267,37 +277,42 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="PLaying with Cockroach 3 mode cluster with the movr database." />
-    <option name="LAST_COMMIT_MESSAGE" value="PLaying with Cockroach 3 mode cluster with the movr database." />
+    <MESSAGE value="New STreaming Stuff from Spark and Spark 3.0 modulations" />
+    <option name="LAST_COMMIT_MESSAGE" value="New STreaming Stuff from Spark and Spark 3.0 modulations" />
   </component>
   <component name="WindowStateProjectService">
     <state x="363" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1597484057602">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="363" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1597484057602" />
-    <state x="279" y="0" key="CommitChangelistDialog2" timestamp="1596385924460">
+    <state x="279" y="0" key="CommitChangelistDialog2" timestamp="1597489716779">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="279" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596385924459" />
-    <state width="1323" height="280" key="GridCell.Tab.0.bottom" timestamp="1597488752969">
+    <state x="279" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1597489716779" />
+    <state width="1323" height="139" key="GridCell.Tab.0.bottom" timestamp="1597496612905">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="280" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597488752969" />
-    <state width="1323" height="280" key="GridCell.Tab.0.center" timestamp="1597488752969">
+    <state width="1323" height="139" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597496612905" />
+    <state width="1323" height="139" key="GridCell.Tab.0.center" timestamp="1597496612904">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="280" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597488752969" />
-    <state width="1323" height="280" key="GridCell.Tab.0.left" timestamp="1597488752969">
+    <state width="1323" height="139" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597496612904" />
+    <state width="1323" height="139" key="GridCell.Tab.0.left" timestamp="1597496612904">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="280" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597488752969" />
-    <state width="1323" height="280" key="GridCell.Tab.0.right" timestamp="1597488752969">
+    <state width="1323" height="139" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597496612904" />
+    <state width="1323" height="139" key="GridCell.Tab.0.right" timestamp="1597496612904">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="280" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597488752969" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1596386099121">
+    <state width="1323" height="139" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597496612904" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1597489797619">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1596386099121" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1597489797619" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1597495896517">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1597495896517" />
   </component>
   <component name="masterDetails">
     <states>
