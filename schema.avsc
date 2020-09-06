@@ -1,0 +1,7 @@
+{
+	"type": "record",
+	"namespace": "sailearning.schema",
+	"name": "User",
+	"fields": [{"name": "userid", "type": "string"},
+			   {"name": "username", "type": "string"}]
+}
