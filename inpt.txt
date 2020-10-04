@@ -1,0 +1,114 @@
+# AdwCleaner v3.311 - Report created 11/10/2014 at 20:35:24
+# Updated 30/09/2014 by Xplode
+# Operating System : Windows 7 Home Premium Service Pack 1 (64 bits)
+# Username : rekharamesh - REKHARAMESH-PC
+# Running from : C:\Users\rekharamesh\Downloads\adwcleaner_3.311.exe
+# Option : Clean
+
+***** [ Services ] *****
+
+
+***** [ Files / Folders ] *****
+
+Folder Deleted : C:\ProgramData\Ask
+Folder Deleted : C:\ProgramData\IBUpdaterService
+Folder Deleted : C:\ProgramData\Partner
+Folder Deleted : C:\ProgramData\Tarma Installer
+Folder Deleted : C:\Program Files (x86)\FirstRowSportApp.com
+Folder Deleted : C:\Program Files (x86)\Free Offers from Freeze.com
+Folder Deleted : C:\Program Files (x86)\GreenTree Applications
+Folder Deleted : C:\Program Files (x86)\Yontoo
+Folder Deleted : C:\Windows\Util
+Folder Deleted : C:\Users\rekharamesh\AppData\Local\PackageAware
+Folder Deleted : C:\Users\rekharamesh\AppData\Roaming\pluswinks
+Folder Deleted : C:\Users\rekharamesh\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\FirstRowSportApp.com
+Folder Deleted : C:\Users\rekharamesh\Documents\Updater
+Folder Deleted : C:\Users\rekharamesh\AppData\Local\Google\Chrome\User Data\Default\Extensions\mkfokfffehpeedafpekjeddnmnjhmcmk
+Folder Deleted : C:\Users\rekharamesh\AppData\Local\Google\Chrome\User Data\Default\Extensions\mocblcnaofikinigmceddfghppkkjbog
+[!] Folder Deleted : C:\Users\rekharamesh\AppData\Local\Google\Chrome\User Data\Default\Extensions\mkfokfffehpeedafpekjeddnmnjhmcmk
+File Deleted : C:\alotserviceruntime.log
+File Deleted : C:\Users\rekharamesh\AppData\Roaming\speedanalysis.ico
+File Deleted : C:\Users\rekharamesh\Desktop\SpeedAnalysis.lnk
+File Deleted : C:\Users\rekharamesh\AppData\Local\Google\Chrome\User Data\Default\Local Storage\hxxp_www.speedanalysis.com_0.localstorage
+File Deleted : C:\Users\rekharamesh\AppData\Local\Google\Chrome\User Data\Default\Local Storage\hxxp_www.speedanalysis.com_0.localstorage-journal
+File Deleted : C:\Users\rekharamesh\AppData\Local\Google\Chrome\User Data\Default\Local Storage\hxxp_www.superfish.com_0.localstorage
+File Deleted : C:\Users\rekharamesh\AppData\Local\Google\Chrome\User Data\Default\Local Storage\hxxp_www.superfish.com_0.localstorage-journal
+File Deleted : C:\Users\rekharamesh\AppData\Local\Google\Chrome\User Data\Default\Local Storage\hxxps_inst.shoppingate.info_0.localstorage
+File Deleted : C:\Users\rekharamesh\AppData\Local\Google\Chrome\User Data\Default\Local Storage\hxxps_inst.shoppingate.info_0.localstorage-journal
+
+***** [ Scheduled Tasks ] *****
+
+
+***** [ Shortcuts ] *****
+
+
+***** [ Registry ] *****
+
+Value Deleted : HKCU\Software\Mozilla\Firefox\Extensions [pluswinks@PlusWinks]
+Value Deleted : HKLM\SOFTWARE\Mozilla\Firefox\Extensions [pluswinks@PlusWinks]
+Key Deleted : HKLM\SOFTWARE\Google\Chrome\Extensions\bgnnidmnbdkmhfkjgdnngciimpdgohok
+Key Deleted : HKLM\SOFTWARE\Google\Chrome\Extensions\mkfokfffehpeedafpekjeddnmnjhmcmk
+Key Deleted : [x64] HKLM\SOFTWARE\Google\Chrome\Extensions\mkfokfffehpeedafpekjeddnmnjhmcmk
+Key Deleted : HKLM\SOFTWARE\Google\Chrome\Extensions\mocblcnaofikinigmceddfghppkkjbog
+Key Deleted : HKLM\SOFTWARE\Microsoft\Tracing\alotservice_RASAPI32
+Key Deleted : HKLM\SOFTWARE\Microsoft\Tracing\alotservice_RASMANCS
+Key Deleted : HKLM\SOFTWARE\Microsoft\Tracing\apnstub_RASAPI32
+Key Deleted : HKLM\SOFTWARE\Microsoft\Tracing\apnstub_RASMANCS
+Key Deleted : HKLM\SOFTWARE\Microsoft\Tracing\FirstRowSportApp_RASAPI32
+Key Deleted : HKLM\SOFTWARE\Microsoft\Tracing\FirstRowSportApp_RASMANCS
+Key Deleted : HKLM\SOFTWARE\Classes\AppID\{608D3067-77E8-463D-9084-908966806826}
+Key Deleted : HKLM\SOFTWARE\Classes\AppID\{BDB69379-802F-4EAF-B541-F8DE92DD98DB}
+Key Deleted : HKLM\SOFTWARE\Classes\AppID\{EA28B360-05E0-4F93-8150-02891F1D8D3C}
+Key Deleted : HKCU\Software\Microsoft\Windows\CurrentVersion\Ext\Settings\{FD72061E-9FDE-484D-A58A-0BAB4151CAD8}
+Key Deleted : HKCU\Software\Microsoft\Internet Explorer\SearchScopes\{A531D99C-5A22-449B-83DA-872725C6D0ED}
+Key Deleted : [x64] HKLM\SOFTWARE\Classes\Interface\{10DE7085-6A1E-4D41-A7BF-9AF93E351401}
+Key Deleted : [x64] HKLM\SOFTWARE\Classes\Interface\{1AD27395-1659-4DFF-A319-2CFA243861A5}
+Key Deleted : HKCU\Software\1ClickDownload
+Key Deleted : HKCU\Software\APN PIP
+Key Deleted : HKCU\Software\filescout
+Key Deleted : HKCU\Software\PIP
+Key Deleted : HKCU\Software\SweetIM
+Key Deleted : HKLM\SOFTWARE\Freeze.com
+Key Deleted : HKLM\SOFTWARE\Iminent
+Key Deleted : HKLM\SOFTWARE\PIP
+Key Deleted : HKLM\SOFTWARE\SweetIM
+Key Deleted : HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\1ClickDownload
+Key Deleted : HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Updater Service
+Key Deleted : [x64] HKLM\SOFTWARE\Tarma Installer
+Key Deleted : [x64] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{889DF117-14D1-44EE-9F31-C5FB5D47F68B}
+Key Deleted : [x64] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\0E12F736682067FDE4D1158D5940A82E
+Key Deleted : [x64] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\1A24B5BB8521B03E0C8D908F5ABC0AE6
+Key Deleted : [x64] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\2B0D56C4F4C46D844A57FFED6F0D2852
+Key Deleted : [x64] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\49D4375FE41653242AEA4C969E4E65E0
+Key Deleted : [x64] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\6AA0923513360135B272E8289C5F13FA
+Key Deleted : [x64] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\6F7467AF8F29C134CBBAB394ECCFDE96
+Key Deleted : [x64] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\922525DCC5199162F8935747CA3D8E59
+Key Deleted : [x64] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\BCDA179D619B91648538E3394CAC94CC
+Key Deleted : [x64] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\D677B1A9671D4D4004F6F2A4469E86EA
+Key Deleted : [x64] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\DD1402A9DD4215A43ABDE169A41AFA0E
+Key Deleted : [x64] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\E36E114A0EAD2AD46B381D23AD69CDDF
+Key Deleted : [x64] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\EF8E618DB3AEDFBB384561B5C548F65E
+
+***** [ Browsers ] *****
+
+-\\ Internet Explorer v11.0.9600.17280
+
+
+-\\ Mozilla Firefox v
+
+-\\ Google Chrome v37.0.2062.124
+
+[ File : C:\Users\rekharamesh\AppData\Local\Google\Chrome\User Data\Default\preferences ]
+
+Deleted [Search Provider] : hxxp://uk.ask.com/web?q={searchTerms}
+Deleted [Search Provider] : hxxp://www.101greatgoals.com/search-results/?cx=partner-pub-0735497134115845%3A5000086861&cof=FORID%3A10&ie=UTF-8&q={searchTerms}&sa=Search&siteurl=www.101greatgoals.com%2F&ref=&ss=7734j6011470j22
+Deleted [Search Provider] : hxxp://gumtree.com.au/s-search-results.html?keyword={searchTerms}
+
+*************************
+
+AdwCleaner[R0].txt - [8840 octets] - [11/10/2014 20:32:09]
+AdwCleaner[R1].txt - [9341 octets] - [11/10/2014 20:34:17]
+AdwCleaner[S0].txt - [324 octets] - [11/10/2014 20:33:41]
+AdwCleaner[S1].txt - [7329 octets] - [11/10/2014 20:35:24]
+
+########## EOF - C:\AdwCleaner\AdwCleaner[S1].txt - [7389 octets] ##########
