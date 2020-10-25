@@ -1,14 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:sai-working-branch" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff92cdbd-bb9d-46b8-9c76-40d5bd17d0b7" name="Default" comment="New STreaming Stuff from Spark and Spark 3.0 modulations">
-      <change afterPath="$PROJECT_DIR$/SaiStudy - Kafka - Schema Registry.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SaiStudy - Kafka - Schema Registry_Consumer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SaiStudy - Playing with Data Frames.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SaiStudy - PyAvro1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SaiStydy - Test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bigmart_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schema.avsc" afterDir="false" />
+    <list default="true" id="ff92cdbd-bb9d-46b8-9c76-40d5bd17d0b7" name="Default" comment="PLaying with SPark 3.0 and Python">
+      <change afterPath="$PROJECT_DIR$/SaiStudy - Apache-Beam-Spark.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,11 +41,6 @@
         <option value="Python Script" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>len</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -66,7 +79,7 @@
       <recent name="C:\SaiStudy - LEarn It All - Version9" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.SaiStydy - Test">
+  <component name="RunManager" selected="Python.transactions">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -93,27 +106,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="C:\SaiStudy - LEarn It All - Version9\Sai_AWS_ML\SaiStudy - AWS_ML_Code.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="SaiStudy - KAFKA-STREAMING" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SaiStudy - LEarn It All - Version9" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SaiStudy - KAFKA-STREAMING.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -206,6 +198,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="transactions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SaiStudy - LEarn It All - Version9" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/movr_start_labs_adding_removing_vehicles/movr" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/movr_start_labs_adding_removing_vehicles/movr/transactions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -217,11 +230,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.transactions" />
         <item itemvalue="Python.SaiStydy - Test" />
         <item itemvalue="Python.SaiStudy - Playing with Data Frames" />
         <item itemvalue="Python.SaiStudy - Kafka - Schema Registry" />
         <item itemvalue="Python.SaiStudy - Kafka - Schema Registry_Consumer" />
-        <item itemvalue="Python.SaiStudy - KAFKA-STREAMING" />
       </list>
     </recent_temporary>
   </component>
@@ -279,7 +292,35 @@
       <option name="project" value="LOCAL" />
       <updated>1598046807040</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="PLaying with SPark 3.0 and Python">
+      <created>1599387201235</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1599387201235</updated>
+    </task>
+    <task id="LOCAL-00008" summary="PLaying with SPark 3.0 and Python">
+      <created>1601808012335</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1601808012335</updated>
+    </task>
+    <task id="LOCAL-00009" summary="PLaying with SPark 3.0 and Python">
+      <created>1601814682383</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1601814682383</updated>
+    </task>
+    <task id="LOCAL-00010" summary="PLaying with SPark 3.0 and Python">
+      <created>1601815346936</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1601815346936</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TodoView">
@@ -291,24 +332,54 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="sai-working-branch" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="PLaying with Cockroach 3 mode cluster with the movr database." />
     <MESSAGE value="New STreaming Stuff from Spark and Spark 3.0 modulations" />
-    <option name="LAST_COMMIT_MESSAGE" value="New STreaming Stuff from Spark and Spark 3.0 modulations" />
+    <MESSAGE value="Revert &quot;PLaying with SPark 3.0 and Python&quot;&#10;&#10;This reverts commit 4bd7bb11" />
+    <MESSAGE value="PLaying with SPark 3.0 and Python" />
+    <option name="LAST_COMMIT_MESSAGE" value="PLaying with SPark 3.0 and Python" />
   </component>
   <component name="WindowStateProjectService">
     <state x="363" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1597484057602">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="363" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1597484057602" />
-    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597782684521">
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601814535999">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1597782684521" />
-    <state x="279" y="0" key="CommitChangelistDialog2" timestamp="1598046806081">
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1601814535999" />
+    <state x="279" y="0" key="CommitChangelistDialog2" timestamp="1601814457183">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="279" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1598046806081" />
+    <state x="279" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601814457183" />
+    <state x="129" y="54" key="DiffContextDialog" timestamp="1601814890148">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="129" y="54" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1601814890148" />
     <state width="1323" height="233" key="GridCell.Tab.0.bottom" timestamp="1599347802110">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -325,10 +396,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="233" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599347802110" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1598046813669">
+    <state x="321" y="125" key="MultipleFileMergeDialog" timestamp="1601814467980">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1598046813669" />
+    <state x="321" y="125" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1601814467980" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1601815360187">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601815360187" />
+    <state x="65" y="0" key="new project wizard" timestamp="1599390530935">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1599390530935" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1599306323209">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
