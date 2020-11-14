@@ -26,8 +26,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff92cdbd-bb9d-46b8-9c76-40d5bd17d0b7" name="Default" comment="PLaying with SPark 3.0 and Python">
-      <change afterPath="$PROJECT_DIR$/SaiStudy - Apache-Beam-Spark.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SaiStudy - Apache-Beam-Flink.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SaiStudy - Apache-Beam-Spark.py" beforeDir="false" afterPath="$PROJECT_DIR$/SaiStudy - Apache-Beam-Spark.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,22 +62,22 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/SaiDevOpsRepo" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\SaiStudy - LEarn It All - Version9" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\SaiStudy - LEarn It All - Version9\python_package_binominal\distributions" />
       <recent name="C:\SaiStudy - LEarn It All - Version9\python_package_example" />
       <recent name="C:\SaiStudy - LEarn It All - Version9\Sai_AWS_ML" />
       <recent name="C:\SaiStudy - LEarn It All - Version9\Sai_AWS_ML\subdir" />
       <recent name="C:\SaiStudy - LEarn It All - Version9\app\templates" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\SaiStudy - LEarn It All - Version9" />
     </key>
   </component>
   <component name="RunManager" selected="Python.transactions">
@@ -320,7 +321,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601815346936</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="PLaying with SPark 3.0 and Python">
+      <created>1603585652697</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1603585652697</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TodoView">
@@ -380,6 +388,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="129" y="54" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1601814890148" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1604146608260">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604146608260" />
     <state width="1323" height="233" key="GridCell.Tab.0.bottom" timestamp="1599347802110">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -400,10 +412,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="321" y="125" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1601814467980" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1601815360187">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1603585661493">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601815360187" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1603585661493" />
     <state x="65" y="0" key="new project wizard" timestamp="1599390530935">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

@@ -8,18 +8,18 @@ from apache_beam.runners.portability.spark_runner import SparkRunner
 
 inputs_pattern = 'inpt.txt'
 outputs_prefix = 'outputs/part1'
-options = PipelineOptions([
-    "--runner=PortableRunner",
-    "--job_endpoint=localhost:8099",
-    "--environment_type=LOOPBACK"
-])
-#options = PipelineOptions()
 #options = PipelineOptions([
-#    "--runner=FlinkRunner",
-#    "--flink_version=1.8",
-#    "--flink_master=localhost:8081",
+#    "--runner=PortableRunner",
+#    "--job_endpoint=localhost:8099",
 #    "--environment_type=LOOPBACK"
 #])
+#options = PipelineOptions()
+options = PipelineOptions([
+    "--runner=FlinkRunner",
+    "--flink_version=1.8",
+    "--flink_master=localhost:8081",
+    "--environment_type=LOOPBACK"
+])
 #if os.environ.get('http_proxy'):
 #    del os.environ['http_proxy']
 print(options.get_all_options())
