@@ -26,12 +26,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff92cdbd-bb9d-46b8-9c76-40d5bd17d0b7" name="Default" comment="PLaying with SPark 3.0 and Python">
-      <change afterPath="$PROJECT_DIR$/SaiStudy - Apache Beam JR-10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SaiStudy - Apache Beam JR-11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SaiStudy - Apache Beam JR-7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SaiStudy - Apache Beam JR-8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SaiStudy - Apache Beam JR-9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SaiStudy - Apache Beam JR-12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SaiStudy - Apache Beam JR-13.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +80,7 @@
       <recent name="C:\SaiStudy - LEarn It All - Version9" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.SaiStudy - Apache Beam JR-11">
+  <component name="RunManager" selected="Python.SaiStudy - Apache Beam JR-13">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -119,27 +115,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SaiStudy - Apache Beam JR-10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SaiStudy - LEarn It All - Version9" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SaiStudy - Apache Beam JR-10.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="SaiStudy - Apache Beam JR-11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SaiStudy - LEarn It All - Version9" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -161,6 +136,48 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="SaiStudy - Apache Beam JR-12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SaiStudy - LEarn It All - Version9" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SaiStudy - Apache Beam JR-12.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SaiStudy - Apache Beam JR-13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SaiStudy - LEarn It All - Version9" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SaiStudy - Apache Beam JR-13.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="SaiStudy - Apache Beam JR-7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SaiStudy - LEarn It All - Version9" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -174,27 +191,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SaiStudy - Apache Beam JR-7.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="SaiStudy - Apache Beam JR-8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SaiStudy - LEarn It All - Version9" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SaiStudy - Apache Beam JR-8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -235,11 +231,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.SaiStudy - Apache Beam JR-13" />
+        <item itemvalue="Python.SaiStudy - Apache Beam JR-7" />
+        <item itemvalue="Python.SaiStudy - Apache Beam JR-12" />
         <item itemvalue="Python.SaiStudy - Apache Beam JR-11" />
         <item itemvalue="Python.SaiStudy - Apache Beam JR-9" />
-        <item itemvalue="Python.SaiStudy - Apache Beam JR-10" />
-        <item itemvalue="Python.SaiStudy - Apache Beam JR-7" />
-        <item itemvalue="Python.SaiStudy - Apache Beam JR-8" />
       </list>
     </recent_temporary>
   </component>
@@ -346,7 +342,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605562855066</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="PLaying with SPark 3.0 and Python">
+      <created>1605727120582</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1605727120582</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TodoView">
@@ -414,30 +417,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604146608260" />
-    <state width="1323" height="233" key="GridCell.Tab.0.bottom" timestamp="1605650751888">
+    <state width="1323" height="233" key="GridCell.Tab.0.bottom" timestamp="1605737099486">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="233" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605650751888" />
-    <state width="1323" height="233" key="GridCell.Tab.0.center" timestamp="1605650751888">
+    <state width="1323" height="233" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605737099486" />
+    <state width="1323" height="233" key="GridCell.Tab.0.center" timestamp="1605737099486">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="233" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605650751888" />
-    <state width="1323" height="233" key="GridCell.Tab.0.left" timestamp="1605650751888">
+    <state width="1323" height="233" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605737099486" />
+    <state width="1323" height="233" key="GridCell.Tab.0.left" timestamp="1605737099486">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="233" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605650751888" />
-    <state width="1323" height="233" key="GridCell.Tab.0.right" timestamp="1605650751888">
+    <state width="1323" height="233" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605737099486" />
+    <state width="1323" height="233" key="GridCell.Tab.0.right" timestamp="1605737099486">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="233" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605650751888" />
+    <state width="1323" height="233" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605737099486" />
     <state x="321" y="125" key="MultipleFileMergeDialog" timestamp="1601814467980">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="321" y="125" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1601814467980" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1605562863948">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1605727128642">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605562863948" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605727128642" />
     <state x="65" y="0" key="new project wizard" timestamp="1599390530935">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
