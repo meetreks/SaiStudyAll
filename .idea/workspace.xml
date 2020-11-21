@@ -26,12 +26,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff92cdbd-bb9d-46b8-9c76-40d5bd17d0b7" name="Default" comment="PLaying with SPark 3.0 and Python">
-      <change afterPath="$PROJECT_DIR$/SaiStudy - Apache Beam JR-ParDo-Side-Input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SaiStudy - Apache Beam JR-Transformers-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SaiStudy - Apache Beam JR-Transformers-GLobal-WIndow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SaiStudy - Apache Beam JR-Transformers-Session-WIndow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SaiStudy - Apache Beam JR-Transformers-Sliding-WIndow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SaiStudy - Apache Beam JR-Transformers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SaiStudy - Apache Beam JR-Metrics-Counter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SaiStudy - Apache Beam JR-Metrics-Distrubution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SaiStudy - Apache Beam JR-Metrics-Gauge.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +81,7 @@
       <recent name="C:\SaiStudy - LEarn It All - Version9" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.SaiStudy - Apache Beam JR-Transformers-GLobal-WIndow">
+  <component name="RunManager" selected="Python.SaiStudy - Apache Beam JR-Metrics-Gauge">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -119,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SaiStudy - Apache Beam JR-Transformers-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="SaiStudy - Apache Beam JR-7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SaiStudy - LEarn It All - Version9" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,7 +128,70 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SaiStudy - Apache Beam JR-Transformers-1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SaiStudy - Apache Beam JR-7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SaiStudy - Apache Beam JR-Metrics-Counter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SaiStudy - LEarn It All - Version9" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SaiStudy - Apache Beam JR-Metrics-Counter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SaiStudy - Apache Beam JR-Metrics-Distrubution" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SaiStudy - LEarn It All - Version9" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SaiStudy - Apache Beam JR-Metrics-Distrubution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SaiStudy - Apache Beam JR-Metrics-Gauge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SaiStudy - LEarn It All - Version9" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SaiStudy - Apache Beam JR-Metrics-Gauge.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,69 +221,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SaiStudy - Apache Beam JR-Transformers-Session-WIndow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SaiStudy - LEarn It All - Version9" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SaiStudy - Apache Beam JR-Transformers-Session-WIndow.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="SaiStudy - Apache Beam JR-Transformers-Sliding-WIndow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SaiStudy - LEarn It All - Version9" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SaiStudy - Apache Beam JR-Transformers-Sliding-WIndow.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="SaiStudy - Apache Beam JR-Transformers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SaiStudy - LEarn It All - Version9" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SaiStudy - Apache Beam JR-Transformers.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -235,11 +232,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.SaiStudy - Apache Beam JR-Metrics-Gauge" />
+        <item itemvalue="Python.SaiStudy - Apache Beam JR-Metrics-Distrubution" />
+        <item itemvalue="Python.SaiStudy - Apache Beam JR-Metrics-Counter" />
+        <item itemvalue="Python.SaiStudy - Apache Beam JR-7" />
         <item itemvalue="Python.SaiStudy - Apache Beam JR-Transformers-GLobal-WIndow" />
-        <item itemvalue="Python.SaiStudy - Apache Beam JR-Transformers-Session-WIndow" />
-        <item itemvalue="Python.SaiStudy - Apache Beam JR-Transformers-1" />
-        <item itemvalue="Python.SaiStudy - Apache Beam JR-Transformers-Sliding-WIndow" />
-        <item itemvalue="Python.SaiStudy - Apache Beam JR-Transformers" />
       </list>
     </recent_temporary>
   </component>
@@ -360,7 +357,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605957657032</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="PLaying with SPark 3.0 and Python">
+      <created>1605983608320</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1605983608320</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TodoView">
@@ -428,30 +432,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604146608260" />
-    <state width="1323" height="233" key="GridCell.Tab.0.bottom" timestamp="1605968480421">
+    <state width="1323" height="233" key="GridCell.Tab.0.bottom" timestamp="1605988290074">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="233" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605968480421" />
-    <state width="1323" height="233" key="GridCell.Tab.0.center" timestamp="1605968480421">
+    <state width="1323" height="233" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605988290074" />
+    <state width="1323" height="233" key="GridCell.Tab.0.center" timestamp="1605988290074">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="233" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605968480421" />
-    <state width="1323" height="233" key="GridCell.Tab.0.left" timestamp="1605968480421">
+    <state width="1323" height="233" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605988290074" />
+    <state width="1323" height="233" key="GridCell.Tab.0.left" timestamp="1605988290074">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="233" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605968480421" />
-    <state width="1323" height="233" key="GridCell.Tab.0.right" timestamp="1605968480421">
+    <state width="1323" height="233" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605988290074" />
+    <state width="1323" height="233" key="GridCell.Tab.0.right" timestamp="1605988290074">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="233" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605968480421" />
+    <state width="1323" height="233" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605988290074" />
     <state x="321" y="125" key="MultipleFileMergeDialog" timestamp="1601814467980">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="321" y="125" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1601814467980" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1605957663258">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1605983614977">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605957663258" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605983614977" />
     <state x="65" y="0" key="new project wizard" timestamp="1599390530935">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
